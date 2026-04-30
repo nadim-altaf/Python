@@ -54,8 +54,6 @@ The repository is structured as an 11-chapter course, each containing **concept 
 | 10 | **OOP** | Classes, `self` parameter, constructors (`__init__`) |
 | 11 | **Inheritance & Advanced OOP** | Single & multi-level inheritance, `super()`, class methods, operator overloading |
 
-> 💡 **[Visual Suggestion]** Insert a horizontal learning-path diagram or flowchart here showing chapters 1 → 11 → Project 1, with topic icons on each node.
-
 ---
 
 ## ✨ Key Features
