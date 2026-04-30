@@ -107,8 +107,6 @@ else:
     print("You Win")
 ```
 
-> 💡 **[Visual Suggestion]** Insert a GIF of the Tkinter GUI in action here — demonstrating the button click, real-time label update, and green/blue/red result colours.
-
 ---
 
 ## 📁 Repository Structure
@@ -116,70 +114,70 @@ else:
 ```
 Python-Programming/
 │
-├── Chapter 1/                        # Hello World & Syntax Basics
-│   ├── first.py
-│   └── Practice_Set/                 # Problems 1–4
+├── Chapter 1/                            # Hello World & Syntax Basics
+│   └── first.py
+├── Chapter 1 Practice_Set/               # Problems 1–4
 │
-├── Chapter 2 - Variable_Datatype/    # Variables, Operators, Input
+├── Chapter 2 - Variable_Datatype/        # Variables, Operators, Input
 │   ├── 01_variable.py
 │   ├── 02_dataTypes.py
 │   ├── 03_rules_variable.py
 │   ├── 04_operators.py
 │   ├── 05_type.py
-│   ├── 06_input.py
-│   └── Practice Set/                 # Problems 1–6
+│   └── 06_input.py
+├── Chapter 2 Practice Set/               # Problems 1–6
 │
-├── Chapter 3 - String/               # String Slicing & Methods
+├── Chapter 3 - String/                   # String Slicing & Methods
 │   ├── 01_introToString.py
 │   ├── 02_negative_slicing.py
 │   ├── 03_slicingWithSkipValue.py
 │   ├── 04_str_functions.py
-│   ├── 05_escape_seq.py
-│   └── Practice Set/                 # Problems 1–3
+│   └── 05_escape_seq.py
+├── Chapter 3 Practice Set/               # Problems 1–3
 │
-├── Chapter 4 - Lists & Tuples/       # Mutable vs Immutable Sequences
+├── Chapter 4 - Lists & Tuples/           # Mutable vs Immutable Sequences
 │   ├── 01_list.py  02_list_methods.py
-│   ├── 03_tuple.py  04_tuple_methods.py
-│   └── Practice Set/                 # Problems 1–3
+│   └── 03_tuple.py  04_tuple_methods.py
+├── Chapter 4 Practice Set/               # Problems 1–3
 │
-├── Chapter 5 - Dictionary&Sets/      # Key-Value Stores & Set Algebra
-│   ├── 01_dict.py  ...  07_setoperations.py
-│   └── Practice_Set/                 # Q1–Q6
+├── Chapter 5 - Dictionary&Sets/          # Key-Value Stores & Set Algebra
+│   └── 01_dict.py  ...  07_setoperations.py
+├── Chapter 5 Practice_Set/               # Q1–Q6
 │
-├── Chapter 6 - Conditional Expression/  # if/elif/else Logic
-│   ├── 01_conditionals.py
-│   └── Practice_Set/                 # Q1–Q5
+├── Chapter 6 - Conditional Expression/   # if/elif/else Logic
+│   └── 01_conditionals.py
+├── Chapter 6 Practice_Set/               # Q1–Q5
 │
-├── Chapter 7 - Loops/                # while, for, break/continue
-│   ├── 01_loops.py  ...  06_break_continue.py
-│   └── Practice Set/                 # Q1–Q9
+├── Chapter 7 - Loops/                    # while, for, break/continue
+│   └── 01_loops.py  ...  06_break_continue.py
+├── Chapter 7 Practice Set/               # Q1–Q9
 │
-├── Chapter 8 - Functions_Recursions/ # Functions, Defaults, Recursion
-│   ├── 01_function.py  ...  04_recursion.py
-│   └── Practice Set/                 # Q1–Q5
+├── Chapter 8 - Functions_Recursions/     # Functions, Defaults, Recursion
+│   └── 01_function.py  ...  04_recursion.py
+├── Chapter 8 Practice Set/               # Q1–Q5
 │
-├── Chapter 9 File/                   # File I/O & Context Managers
-│   ├── 01_file.py  ...  05_withStmt.py
-│   └── Practice Set/                 # mineLogFile, poem, tableOfThree, replaceFile …
+├── Chapter 9 File/                       # File I/O & Context Managers
+│   └── 01_file.py  ...  05_withStmt.py
+├── Chapter 9 Practice Set/               # mineLogFile, poem, tableOfThree, replaceFile …
 │
-├── Chapter 10 - OOPs/                # Classes, self, __init__
-│   ├── 01_class.py  02_selfPara.py  03_constructor.py
-│   └── Practice Set/                 # Q1
+├── Chapter 10 - OOPs/                    # Classes, self, __init__
+│   └── 01_class.py  02_selfPara.py  03_constructor.py
+├── Chapter 10 Practice Set/              # Q1
 │
-├── Chapter 11 - inheritance/         # Inheritance, super(), Overloading
+├── Chapter 11 - inheritance/             # Inheritance, super(), Overloading
 │   ├── inheritance.py
 │   ├── multiLevelInheritance.py
 │   ├── superMethod.py
 │   ├── class_method.py
 │   └── operator_overloading.py
 │
-├── PROJECT 1/                        # 🎮 Snake Water Gun Game
-│   ├── main.py                       # CLI — full logic with validation
-│   ├── main_shorted.py               # CLI — arithmetic refactor
-│   └── project2.py                   # GUI  — Tkinter desktop app
+├── PROJECT 1/                            # 🎮 Snake Water Gun Game
+│   ├── main.py                           # CLI — full logic with validation
+│   ├── main_shorted.py                   # CLI — arithmetic refactor
+│   └── project2.py                       # GUI  — Tkinter desktop app
 │
-├── demo.ipynb                        # Jupyter Notebook demo
-├── log.txt / poem.txt / tables/      # Sample data files for Ch9 exercises
+├── demo.ipynb                            # Jupyter Notebook demo
+├── log.txt / poem.txt / tables/          # Sample data files for Ch9 exercises
 └── README.md
 ```
 
@@ -238,8 +236,6 @@ python "PROJECT 1/main_shorted.py"
 # GUI version (Tkinter desktop app)
 python "PROJECT 1/project2.py"
 ```
-
-> 💡 **[Visual Suggestion]** Insert a terminal GIF of the CLI game here — showing a user typing `snake`, the computer's random choice printing, and "You Win!" output.
 
 ---
 
