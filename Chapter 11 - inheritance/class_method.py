@@ -8,6 +8,7 @@ class Student:
 obj = Student()
 
 obj.a = 66 # not take this 
+# obj.a = 66 # not take this 
 obj.show()
 
 
