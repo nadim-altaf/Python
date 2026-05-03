@@ -2,7 +2,7 @@ a = 1 # a is an integer
 
 b = 5.22 # b is a floating point number
 
-c = "Nadim" # c is string 
+c = "Nadim Altaf" # c is string 
 
 d = False # d is a boolean variable
 
